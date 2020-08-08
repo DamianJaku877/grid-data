@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="141ec84a-034c-4ff9-b699-c66bcaa9111e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/data-grid.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/DataSet.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="141ec84a-034c-4ff9-b699-c66bcaa9111e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,12 +68,24 @@
       <option name="presentableId" value="Default" />
       <updated>1596882480940</updated>
       <workItem from="1596882481970" duration="4396000" />
-      <workItem from="1596888437221" duration="3937000" />
+      <workItem from="1596888437221" duration="4769000" />
     </task>
+    <task id="LOCAL-00001" summary="base project">
+      <created>1596892585823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596892585823</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="base project" />
+    <option name="LAST_COMMIT_MESSAGE" value="base project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2463" y="197" width="824" height="684" key="#CLI_Interpreters" timestamp="1596888175368">
@@ -94,17 +100,25 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2671" y="252" width="408" height="574" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596890196577" />
+    <state x="2498" y="114" width="754" height="850" key="CommitChangelistDialog2" timestamp="1596892585679">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2498" y="114" width="754" height="850" key="CommitChangelistDialog2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596892585679" />
     <state x="2653" y="296" width="424" height="484" key="FileChooserDialogImpl" timestamp="1596887867915">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2653" y="296" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596887867915" />
-    <state x="2633" y="269" width="501" height="540" key="NewPhpClassDialog" timestamp="1596892370768">
+    <state x="2633" y="269" width="501" height="540" key="NewPhpClassDialog" timestamp="1596892386815">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2633" y="269" width="501" height="540" key="NewPhpClassDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596892370768" />
+    <state x="2633" y="269" width="501" height="540" key="NewPhpClassDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596892386815" />
     <state x="2715" y="465" width="319" height="147" key="NewPhpFileDialog" timestamp="1596884594195">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2715" y="465" width="319" height="147" key="NewPhpFileDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596884594195" />
+    <state x="2475" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1596893927787">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2475" y="275" width="800" height="528" key="Vcs.Push.Dialog.v2/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596893927787" />
   </component>
 </project>
